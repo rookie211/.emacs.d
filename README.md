@@ -28,6 +28,7 @@
 </p>
 ***
 **Notes:**
+    
     this is a private customary spacemacs;
     source: https://github.com/syl20bnr/spacemacs
 
