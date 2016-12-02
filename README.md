@@ -27,6 +27,9 @@
 <a href="http://www.slant.co/topics/12/~what-are-the-best-programming-text-editors"><img src="https://img.shields.io/badge/Slant-Recommend-ff69b4.svg" alt="Recommend it"></a>
 </p>
 ***
+**Notes:**
+    this is a private customary spacemacs;
+    source: https://github.com/syl20bnr/spacemacs
 
 **Quick Install:**
 
